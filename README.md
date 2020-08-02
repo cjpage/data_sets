@@ -1,2 +1,2 @@
 # data_sets
-Data Sets to Be Used for Projects
+Data sets to be used in support of my projects
